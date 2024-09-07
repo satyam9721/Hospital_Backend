@@ -1,4 +1,6 @@
 https://github.com/Zeeshu911/MERN-Stack-Hospital-Management-System-Web-Application
+aws server=http://13.201.103.131/api/v1/user/doctors
+
 
 start server> npm run dev
 
