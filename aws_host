@@ -1,7 +1,16 @@
 api url = http://13.201.103.131/api/v1/user/doctors
 
-satyam
+To Start the server go to main folder server.js and execute this commands, 
+> pm2 start server.js --name=BackendAPI
 
+
+
+
+
+
+
+
+-------------------------------------------------------------------------------
 STEP1 - Login to AWS console and create EC2 instance
 STEP2 - Setup GitHub Repo and Push your project
 STEP3 - Login to EC2 instance
